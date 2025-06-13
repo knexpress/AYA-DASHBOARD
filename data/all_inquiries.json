@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fd3b342e-2d3a-4a39-b4ea-ab1a116ca9b4",
+    "userMessage": "Hey",
+    "ayaResponse": "Welcome to KN Express, how can we assist you po?",
+    "timestamp": "2025-06-10T10:26:37.209107"
+  },
+  {
+    "id": "1f8ce3c2-9a35-4a46-a6db-4474f756c14c",
+    "userMessage": "hello",
+    "ayaResponse": "Welcome to KN Express, how can we assist you po?",
+    "timestamp": "2025-06-10T10:24:30.189307"
+  },
+  {
+    "id": "d8e24f1d-9e6f-402e-8d9c-8d7e96e6966f",
+    "userMessage": "Sorry, I couldn't understand that audio.",
+    "ayaResponse": "No worries, I'm here to help. Let me know how I can assist you po!",
+    "timestamp": "2025-06-10T10:19:22.046651"
+  },
+  {
+    "id": "22dd85cd-1fb0-4e14-aef3-b0197e76aa7e",
+    "userMessage": "hey",
+    "ayaResponse": "Welcome to KN Express, how can we assist you po?",
+    "timestamp": "2025-06-10T10:19:04.993486"
+  },
+  {
+    "id": "87730997-82c2-4e43-8911-85d00d5320ff",
+    "userMessage": "Hey",
+    "ayaResponse": "Welcome to KN Express, how can we assist you po?",
+    "timestamp": "2025-06-10T10:13:46.334029"
+  },
+  {
+    "id": "6de00500-aa47-41da-af10-c74e59204141",
+    "userMessage": "Hello",
+    "ayaResponse": "Welcome to KN Express, how can we assist you po?",
+    "timestamp": "2025-06-10T10:08:48.541172"
+  }
+]

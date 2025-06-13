@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "question": "What is TypeScript?",
+    "user": "admin",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "frequency": 5,
+    "lastAsked": "2023-01-01T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "question": "How to use React?",
+    "user": "user123",
+    "timestamp": "2023-01-02T00:00:00Z",
+    "frequency": 3,
+    "lastAsked": "2023-01-02T00:00:00Z"
+  }
+]

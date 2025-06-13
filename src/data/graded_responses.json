@@ -1,0 +1,29 @@
+[
+  {
+    "id": "b1881955-1607-401a-abaf-4966089714ec",
+    "userMessage": "What is your return policy?",
+    "ayaResponse": "You can return items within 30 days.",
+    "grade": null,
+    "adminRemarks": null,
+    "correctedResponse": null,
+    "timestamp": "2025-06-09T20:21:21.025Z"
+  },
+  {
+    "id": "469488f3-03f1-4d53-b03a-07d523708a57",
+    "userMessage": "What is your return policy?",
+    "ayaResponse": "You can return items within 30 days.",
+    "grade": 5,
+    "adminRemarks": null,
+    "correctedResponse": "You Can return in 60 days",
+    "timestamp": "2025-06-09T20:57:32.983Z"
+  },
+  {
+    "id": "replace-with-id-from-test-case-3-or-new-uuid",
+    "userMessage": "What is your return policy?",
+    "ayaResponse": "You can return items within 30 days.",
+    "grade": 3,
+    "adminRemarks": "Response is okay, but could mention exceptions.",
+    "correctedResponse": "Our standard return policy is 30 days for most items, excluding final sale. Please see our website for full details.",
+    "timestamp": "2025-06-09T20:22:45.278Z"
+  }
+]

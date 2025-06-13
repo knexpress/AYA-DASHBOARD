@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "question": "What are your shipping rates to North America?",
+    "frequency": 125,
+    "lastAsked": "2025-06-09T09:56:27.801Z"
+  },
+  {
+    "id": "2",
+    "question": "Do you offer temperature-controlled shipping?",
+    "frequency": 98,
+    "lastAsked": "2025-06-08T09:56:27.801Z"
+  },
+  {
+    "id": "3",
+    "question": "What is the transit time to Shanghai?",
+    "frequency": 75,
+    "lastAsked": "2025-06-10T08:56:27.801Z"
+  },
+  {
+    "id": "4",
+    "question": "Can I track my shipment in real-time?",
+    "frequency": 62,
+    "lastAsked": "2025-06-07T09:56:27.801Z"
+  },
+  {
+    "id": "5",
+    "question": "What documents are required for international shipping?",
+    "frequency": 50,
+    "lastAsked": "2025-06-05T09:56:27.801Z"
+  }
+]

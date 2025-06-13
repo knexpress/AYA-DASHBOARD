@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a7dda911-afed-461a-b682-725f17d6a098",
+    "userMessage": "Hello, there!",
+    "timestamp": "2025-06-12T18:47:27.237Z"
+  },
+  {
+    "id": "949ab5c4-238f-4742-9249-445635b1e195",
+    "userMessage": "Hello, there!",
+    "timestamp": "2025-06-12T18:45:51.999Z"
+  },
+  {
+    "id": "02106ba4-fb43-4877-9b1e-c9f75883cb35",
+    "userMessage": "Hey how are you",
+    "timestamp": "2025-06-09T20:15:00.051Z"
+  },
+  {
+    "id": "928e45ca-24a9-42f9-88c7-59326d84a595",
+    "userMessage": "Hey how are you",
+    "timestamp": "2025-06-09T20:14:01.911Z"
+  },
+  {
+    "id": "38d352ed-90ef-4f05-b9d5-442765f3cb80",
+    "userMessage": "Test inquiry from Postman",
+    "timestamp": "2025-06-09T20:13:27.139Z"
+  },
+  {
+    "id": "fb071b10-0fef-41ef-baa5-31137204fd03",
+    "userMessage": "Hello",
+    "ayaResponse": "Welcome to KN Express, how can we assist you po?",
+    "timestamp": "2025-06-09T22:18:48.190044"
+  },
+  {
+    "id": "8681defa-5c9c-4cc2-aaaf-40e56f538a86",
+    "userMessage": "hey",
+    "ayaResponse": "Welcome to KN Express, how can we assist you po?",
+    "timestamp": "2025-06-09T21:52:24.783572"
+  },
+  {
+    "id": "80e7c3ba-cc01-4ce8-ade5-42ff1654bf8b",
+    "userMessage": "I want to buy a iphone",
+    "timestamp": "2025-06-09T21:36:43.670000"
+  },
+  {
+    "id": "ce77d584-6c3b-4c1b-9a8f-ca42e8d31f46",
+    "userMessage": "Hey",
+    "timestamp": "2025-06-09T21:34:32.313448"
+  },
+  {
+    "id": "Required",
+    "userMessage": "Required",
+    "ayaResponse": "Optional",
+    "timestamp": "2025-06-04T08:59:58.199453"
+  },
+  {
+    "id": "Required",
+    "userMessage": "Required",
+    "ayaResponse": "Optional",
+    "timestamp": "2025-06-04T08:59:58.199453"
+  },
+  {
+    "id": "Required",
+    "userMessage": "Required",
+    "ayaResponse": "Optional",
+    "timestamp": "2025-06-04T08:59:58.199453"
+  },
+  {
+    "id": "inq_test_001",
+    "userMessage": "What are your weekend delivery options?",
+    "timestamp": "2023-11-15T10:30:00.000Z"
+  },
+  {
+    "id": "inq_test_001",
+    "userMessage": "What are your weekend delivery options?",
+    "timestamp": "2023-11-15T10:30:00.000Z"
+  },
+  {
+    "id": "inq_test_001",
+    "userMessage": "What are your weekend delivery options?",
+    "timestamp": "2023-11-15T10:30:00.000Z"
+  }
+]
